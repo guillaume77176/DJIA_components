@@ -5,4 +5,4 @@ comp_djia : contains almost the entire assets of DJIA index since 2001 to 2025. 
 
 djia2000 : DJIA prices since 2001 to 2025. 
 
-The asset prices were obtained from Yahoo Finance and processed using SAS.
+The asset prices were obtained from Yahoo Finance and processed using SAS and python.
